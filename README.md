@@ -1,1 +1,2 @@
-# TareasGraficasYMultiagentes
+# Tareas Graficas Y Multiagentes
+## Tareas 
